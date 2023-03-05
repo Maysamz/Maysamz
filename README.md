@@ -2,6 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/Maysamz?label=Follow%20Me&style=social)](https://github.com/maysamz)
 <br>
+![](https://komarev.com/ghpvc/?username=maysamz)
+
 
 <h2 align='center'><samp><strong>Hello!👋, I am Maysam Alzahrani  </strong></samp></h2>
 
