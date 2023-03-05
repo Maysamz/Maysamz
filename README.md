@@ -23,24 +23,13 @@
 
 🧐 **Knowledge of:** <br>
 
-`System analysis & Design`, `Software Testing`, `GUI`, `Socket Programming`, `Object-Oriented Programming`, `data structures and algorithms`.
-
-
-🚩 **Highlights:** <br>
-
-
-📚 **Working on:** <br>
+`System Analysis & Design`, `Software Testing`, `GUI`, `Database
+Systems`, `Socket Programming`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Cloud Computing`
 
 
 
-🤓 **Interested:** <br>
-
-
-
-
-
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+📝 ***For any questions feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Maysam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/maysam-a-16a0a1214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx6di7RrJS%2FWNXYnDQ4Tr%2Bg%3D%3D)
 [![Mail](https://img.shields.io/badge/outlook-MaysamAlz@outllok.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:MaysamAlz@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Maysam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/maysam-a-16a0a1214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx6di7RrJS%2FWNXYnDQ4Tr%2Bg%3D%3D)
 <br>
