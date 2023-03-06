@@ -8,9 +8,10 @@
 <h2 align='center'><samp><strong>Hello!👋, I am Maysam Alzahrani  </strong></samp></h2>
 
 
+ <p align='center'> 📊Analysis | 🛠Build |💡Learn | 🤝Share | 🎉Enjoy 
+<br>
 
-
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. and loves working with cutting edge tools and technologies.
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life.
 
 
 💻 **Languages and Tools:** 🛠️<br>
