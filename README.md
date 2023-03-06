@@ -8,8 +8,7 @@
 <h2 align='center'><samp><strong>Hello!👋, I am Maysam Alzahrani  </strong></samp></h2>
 
 
- <p align='center'> 📊Analysis | 🛠Build |💡Learn | 🤝Share | 🎉Enjoy 
-<br>
+
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life.
 
@@ -28,7 +27,8 @@
 `System Analysis & Design`, `Software Testing`, `GUI`, `Database
 Systems`, `Socket Programming`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Cloud Computing`
 
-
+ <p align='center'> 📊Analysis | 🛠Build |💡Learn | 🤝Share | 🎉Enjoy 
+<br>
 
 📝 ***For any questions feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <br>
