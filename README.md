@@ -17,7 +17,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&labelColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Drawio](https://img.shields.io/badge/-Drawio-000000?style=flat&logo=Drawio&labelColor=ffffff)
@@ -25,7 +24,7 @@
 🧐 **Knowledge of:** <br>
 
 `System Analysis & Design`, `Software Testing`, `GUI`, `Database
-Systems`, `Socket Programming`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Cloud Computing`
+Systems`, `Socket Programming`, `Object-Oriented Programming`, `Data Structures and Algorithms`
 
  <p align='center'> 📊Analysis | 🛠Build |💡Learn | 🤝Share | 🎉Enjoy 
 <br>
